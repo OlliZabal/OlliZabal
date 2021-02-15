@@ -1,8 +1,8 @@
-👋 #Hi, I’m @OlliZabal
+- 👋 Hi, I’m @OlliZabal
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning twig
+- 🌱 I’m currently learning "twig"
 - 💞️ I’m looking to collaborate on ... a lot! :)
-- 📫 How to reach me ...
+- 📫 How to reach me: leave me a comment
 
 <!---
 OlliZabal/OlliZabal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
